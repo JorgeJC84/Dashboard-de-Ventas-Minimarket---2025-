@@ -42,6 +42,5 @@ Este proyecto muestra un **dashboard interactivo en Power BI** para analizar las
 Si quieres aportar mejoras en visualizaciones, KPIs o modelado de datos, ¡eres bienvenido a hacer un fork y un pull request!  
 
 ## 👨‍💻 Autor  
-Desarrollado por **[Tu Nombre]**  
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)  
-- 📂 Otros proyectos en [GitHub](https://github.com/tuusuario)  
+Desarrollado por JJ  
+ 
